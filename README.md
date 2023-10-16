@@ -4,7 +4,7 @@
 - gitignore
 - application.properties
 - utils
-  -regex
+  - regex
     - Email
     - Password
     - URL
