@@ -14,4 +14,4 @@
     - number
     - uuid
 - sample http request
-- 
+- CORS Config
