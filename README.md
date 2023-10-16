@@ -1,5 +1,4 @@
-# spring-must-have
-
+# Spring Sample Files
 ## ToDo 
 - JWT Security
 - gitignore
